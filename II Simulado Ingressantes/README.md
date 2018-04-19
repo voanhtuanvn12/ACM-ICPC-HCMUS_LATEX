@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [A. MaratonIME helps Pablito](#a-maratonimE-helps-[ablito)
+- [A. MaratonIME helps Pablito](#a-maratonimE-helps-pablito)
 - [B. MaratonIME plays Cîrokime](#b-maratonime-plays-cîrokime)
 - [C. MaratonIME plays Nim](#c-maratonime-plays-nim)
 - [D. MaratonIME plays Chess](#d-maratonime-plays-chess)
