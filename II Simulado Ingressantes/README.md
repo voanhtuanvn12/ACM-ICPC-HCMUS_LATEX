@@ -17,33 +17,68 @@
 - [M. MaratonIME returns home](#m-maratonime-returns-home)
 
 ## A. MaratonIME helps Pablito
+### Bài Toán
+
+### Hướng dẫn
+
 
 ## B. MaratonIME plays Cîrokime
+### Bài Toán
+
+### Hướng dẫn
+
 
 ## C. MaratonIME plays Nim
+### Bài Toán
 
-
-
+### Hướng dẫn
 
 ## D. MaratonIME plays Chess
+### Bài Toán
 
+### Hướng dẫn
 
 ## E. MaratonIME rides the university bus
+### Bài Toán
+
+### Hướng dẫn
 
 ## F. MaratonIME attends the lecture (or not)
+### Bài Toán
+
+### Hướng dẫn
 
 ## G. MaratonIME goes rowing
+### Bài Toán
+
+### Hướng dẫn
 
 ## H. MaratonIME goes to the movies
+### Bài Toán
 
+### Hướng dẫn
 
 ## I. MaratonIME goes to a japanese restaurant
+### Bài Toán
+
+### Hướng dẫn
 
 ## J. MaratonIME goes to the japanese restaurant (again)
+### Bài Toán
+
+### Hướng dẫn
 
 ## K. MaratonIME goes to the karaoke
+### Bài Toán
 
+### Hướng dẫn
 
 ## L. MaratonIME goes karting
+### Bài Toán
+
+### Hướng dẫn
 
 ## M. MaratonIME returns home
+### Bài Toán
+
+### Hướng dẫn
