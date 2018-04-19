@@ -12,7 +12,7 @@
 - [H. MaratonIME goes to the movies](#h-maratonime-goes-to-the-movies)
 - [I. MaratonIME goes to a japanese restaurant](#i-maratonime-goes-to-a-japanese-restaurant)
 - [J. MaratonIME goes to the japanese restaurant (again)](#j-maratonime-goes-to-the-japanese-restaurant-again)
-- [K. MaratonIME goes to the karaoke] (#i-maratonime-goes-to-the-karaoke)
+- [K. MaratonIME goes to the karaoke] (#k-maratonime-goes-to-the-karaoke)
 - [L. MaratonIME goes karting](#l-maratonime-goes-karting)
 - [M. MaratonIME returns home](#m-maratonime-returns-home)
 
