@@ -9,7 +9,7 @@
 - [E. MaratonIME rides the university bus](#e-maratonime-rides-the-university-bus)
 - [F. MaratonIME attends the lecture (or not)](#f-maratonime-attends-the-lecture-or-not)
 - [G. MaratonIME goes rowing](#g-maratonime-goes-rowing)
-- [H. MaratonIME goes to the movies] (#h-maratonime-goes-to-the-movies)
+- [H. MaratonIME goes to the movies](#h-maratonime-goes-to-the-movies)
 - [I. MaratonIME goes to a japanese restaurant](#i-maratonime-goes-to-a-japanese-restaurant)
 - [J. MaratonIME goes to the japanese restaurant (again)](#j-maratonime-goes-to-the-japanese-restaurant-again)
 - [K. MaratonIME goes to the karaoke] (#i-maratonime-goes-to-the-karaoke)
